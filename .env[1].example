@@ -1,0 +1,2 @@
+USE_SAMPLE_DATA=true
+NEXT_PUBLIC_API_URL=http://localhost:8000
